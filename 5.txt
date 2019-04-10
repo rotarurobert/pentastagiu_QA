@@ -1,0 +1,1 @@
+Team: 1-analyst, 2-devs, 1-tester, 1-UI;
