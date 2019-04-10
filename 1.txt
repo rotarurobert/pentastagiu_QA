@@ -1,0 +1,6 @@
+1.The system crashes after you made the payment or when you are not able to add the items to the Cart, this defect is marked as High Severity and High Priority defect.
+	2.Another example would be ATM vending currency feature wherein after entering the correct username and the password, the machine does not dispense money but deducts the transferred from your account.
+	1.In the Online shopping website, when the FrontPage logo is spelled wrong, for example instead of Flipkart it is spelled as Flipkrta.
+	2.In the bank logo, instead of ICICI, it is written as ICCCI.
+	1.In a social networking site, if a beta version of a new feature is released with not many active users using that facility as of today. Any defect found on this feature can be classified as a Low priority as the feature takes back seat due to business classification as not important.
+	1.If the privacy policy of the website has a spelling mistake, this defect is set as Low Severity and Low priority.
