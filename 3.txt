@@ -1,0 +1,12 @@
+3. Exercise #3 : Defect reporting
+In you opinion, when reporting a bug, what would you include in the given report? (name, description, date, etc).
+Feel free to think of any relevant fields that may help with identifying the bug and making it understandable for the entire team.
+Design a template for a bug report.
+Template:
+	-name
+	-location where was found
+	-what it does
+	-the severity
+	-when was found
+	-by whom was found
+	-others
