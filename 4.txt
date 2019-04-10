@@ -1,0 +1,4 @@
+First, I would try to log in with an correct e-mail and password. Then I would try an incorrect password or e-mail, if I can run sql injection scripts or any kind of script through textboxes, if I can create a new account, if i can recover my password.
+	Introducing a Captcha would imporve security against force login scripts.
+
+
